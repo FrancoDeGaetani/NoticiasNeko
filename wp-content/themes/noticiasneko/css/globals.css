@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
+/* body{
     background-color: var(--color-fondo);
 }
 
@@ -21,7 +21,7 @@ body{
     --color-destacar: #D9A441;
     
     --margin-section: 45px 0; 
-}
+} */
 
 @media only screen
 and (min-width : 961px) {
